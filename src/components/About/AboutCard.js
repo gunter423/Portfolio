@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Salut, je suis <span className="purple">Réda Hamadi </span>
-            , je viens de <span className="purple"> Brest en Brest.</span>
+            , je viens de <span className="purple"> Brest en France,</span>
             <br />Je suis développeur web en freelance.
             <br />
           </p>
