@@ -25,7 +25,7 @@ function Projects() {
               isButton={true}
               isOpenSource={false}
               title="SystemLab"
-              description="SystemLab est une association qui regroupe des passionnés dans les différents domaines de l'informatique. Nos équipes vous conseillerons dans la transition. J'ai réalisé un simple site statique avec une template HTML avec comme framework Symfony"
+              description="SystemLab est une association qui regroupe des passionnés dans les différents domaines de l'informatique. Nos équipes vous conseillerons dans la transition. J'ai réalisé un simple site statique avec une template HTML avec comme framework Symfony."
               link="https://systemlab.fr"
             />
           </Col>
@@ -36,7 +36,7 @@ function Projects() {
               isButton={true}
               isOpenSource={false}
               title="Odeon Tours"
-              description="ODEON TOURS est un « TOUR OPERATOR » membre de l'A.P.S.* basé à Montmorency (Région Parisienne) mais actif sur l'ensemble de l'Hexagone. J'ai réalisé se site web avec symfony, il y'a une page administrative pour la gestion des différentes éléments dynamiques du site"
+              description="ODEON TOURS est un « TOUR OPERATOR » membre de l'A.P.S.* basé à Montmorency (Région Parisienne) mais actif sur l'ensemble de l'Hexagone. J'ai réalisé ce site web avec symfony. Il y a une page administrative pour la gestion des différentes éléments dynamiques du site."
               link="https://odeon-tours.com"
             />
           </Col>
@@ -45,7 +45,7 @@ function Projects() {
               isButton={false}
               isOpenSource={false}
               title="Bol Scanner"
-              description="Applications de scan de livre avec l'EAN, récupération du prix et affichage des différentes information concernant le livre scanné depuis https://bol.com"
+              description="Applications de scan de livre avec l'EAN, récupération du prix et affichage des différentes informations concernant le livre scanné depuis https://bol.com ."
             />
           </Col>
         </Row>

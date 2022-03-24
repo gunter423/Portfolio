@@ -19,7 +19,7 @@ function Home2() {
               JE ME <span className="purple"> PRÉSENTE </span>
             </h1>
             <p className="home-about-body">
-              Je suis tombé amoureux de la programmation étant très jeune 😊
+              Je suis tombé amoureux de la programmation étant très jeune 😊.
               <br />
               <br />J'ai acquis des compétences en
               <i>
@@ -35,7 +35,7 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>Retrouver moi sur</h1>
+            <h1>Retrouvez moi sur</h1>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
